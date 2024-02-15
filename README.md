@@ -1,4 +1,4 @@
-### Hi, I'm Asma 👋
+<!--### Hi, I'm Asma 👋
 
 <!-- As an experienced Python developer with over a year of professional experience, I possess excellent knowledge of backend development. My expertise spans monolithic, microservice, and serverless architectures. Much of my activity is within the realm of open source, where I actively contribute to various projects. My experiences in the open-source community have not only helped me continuously improve my skills but also fostered a broad understanding of best practices and development processes.
 -->
@@ -224,4 +224,45 @@
    <a href="https://github.com/rasma1234/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=rasma1234&color=DE002D">
    </a>
-</div>
+</div> -->
+
+# Asma Rahimi - Backend Developer
+
+## About Me
+
+I am Asma Rahimi, a passionate backend developer with over a year of professional experience. I specialize in Python, Django, databases, APIs, and cloud technologies. I am dedicated to continuous learning and contributing to open-source projects. Fluent in English and Python, I thrive in collaborative environments and am always seeking new challenges.
+
+## Key Points
+
+- 🔭 Currently working on **pyCraze**
+- 👯 Open to collaboration on projects involving **Python, Django, databases, and cloud technologies**
+- 💬 Ask me about **Python, Django, Databases, APIs, and Cloud**
+- 📫 Reach me at [rasma2541@gmail.com](mailto:rasma2541@gmail.com)
+- 📄 Check out my [resume](https://www.dropbox.com/scl/fi/0gcf7kd7nettl47bc4mbq/CV-Asma-Rahimi.pdf?rlkey=yf4ghg8xlzuv3o6ir7llcvnaw&dl=0)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Rahimi-blue)](https://linkedin.com/in/www.linkedin.com/in/asma-rahimi)
+
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## Open Source Projects
+
+- [GitHub Profile Views Counter](https://github.com/rasma1234/github-profile-views-counter)
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasma1234&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasma1234&show_icons=true&count_private=true)
+
+
