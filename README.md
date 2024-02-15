@@ -1,62 +1,35 @@
-<!--### Hi, I'm Asma 👋
 
-<!-- As an experienced Python developer with over a year of professional experience, I possess excellent knowledge of backend development. My expertise spans monolithic, microservice, and serverless architectures. Much of my activity is within the realm of open source, where I actively contribute to various projects. My experiences in the open-source community have not only helped me continuously improve my skills but also fostered a broad understanding of best practices and development processes.
--->
+# Asma Rahimi - Backend Developer
 
-<h1 align="center">Hi 👋, I'm Asma Rahimi</h1>
-<h3 align="center">A passionate backend developer</h3>
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasma1234&label=Profile%20views&color=0e75b6&style=flat" alt="rasma1234" /> </p>
+I am Asma Rahimi, a passionate backend developer specialized in Python, Django, Databases, APIs, and Cloud technologies. I am dedicated to continuous learning and contributing to open-source projects. Fluent in English English, Persian and German, I thrive in collaborative environments and am always seeking new challenges.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasma1234" alt="rasma1234" /></a> </p>
+## Key Points
 
-- 🔭 I’m currently working on **pyCraze**
+- 🔭 Currently working on **pyCraze**
+- 👯 Open to collaboration on projects involving **Python, Django, databases, and cloud technologies**
+- 💬 Ask me about **Python, Django, Databases, APIs, and Cloud**
+- 📫 Reach me at [rasma2541@gmail.com](mailto:rasma2541@gmail.com)
+- 📄 Check out my [resume](https://www.dropbox.com/scl/fi/0gcf7kd7nettl47bc4mbq/CV-Asma-Rahimi.pdf?rlkey=yf4ghg8xlzuv3o6ir7llcvnaw&dl=0)
 
-- 👯 I’m looking to collaborate on **python, django, databases and cloud**
+## Connect with Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/rasma1234](https://github.com/rasma1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Rahimi-blue)](https://linkedin.com/in/www.linkedin.com/in/asma-rahimi)
 
-- 💬 Ask me about **Python, Django, Databases, APIs & Cloud**
+## Technology Stack
 
-- 📫 How to reach me **rasma2541@gmail.com**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/0gcf7kd7nettl47bc4mbq/CV-Asma-Rahimi.pdf?rlkey=yf4ghg8xlzuv3o6ir7llcvnaw&dl=0](https://www.dropbox.com/scl/fi/0gcf7kd7nettl47bc4mbq/CV-Asma-Rahimi.pdf?rlkey=yf4ghg8xlzuv3o6ir7llcvnaw&dl=0)
 
-- ⚡ Fun fact **I am fluent in two languages: English & Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/asma-rahimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asma-rahimi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasma1234&show_icons=true&locale=en&layout=compact" alt="rasma1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasma1234&show_icons=true&locale=en" alt="rasma1234" /></p>
-<hr>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=rasma12343&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=rasma1234&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/rasma1234/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasma1234&layout=compact"/></a>
-</p>
-<hr>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/asma-rahimi/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:rasma2541@gmail.com'>rasma2541@gmail.com</a>
-</p>
-
-<hr>
-### Key points
-
-<hr>
 
 
 ## 🛠 Technology Stack
@@ -224,37 +197,7 @@
    <a href="https://github.com/rasma1234/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=rasma1234&color=DE002D">
    </a>
-</div> -->
-
-# Asma Rahimi - Backend Developer
-
-## About Me
-
-I am Asma Rahimi, a passionate backend developer with over a year of professional experience. I specialize in Python, Django, databases, APIs, and cloud technologies. I am dedicated to continuous learning and contributing to open-source projects. Fluent in English and Python, I thrive in collaborative environments and am always seeking new challenges.
-
-## Key Points
-
-- 🔭 Currently working on **pyCraze**
-- 👯 Open to collaboration on projects involving **Python, Django, databases, and cloud technologies**
-- 💬 Ask me about **Python, Django, Databases, APIs, and Cloud**
-- 📫 Reach me at [rasma2541@gmail.com](mailto:rasma2541@gmail.com)
-- 📄 Check out my [resume](https://www.dropbox.com/scl/fi/0gcf7kd7nettl47bc4mbq/CV-Asma-Rahimi.pdf?rlkey=yf4ghg8xlzuv3o6ir7llcvnaw&dl=0)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Rahimi-blue)](https://linkedin.com/in/www.linkedin.com/in/asma-rahimi)
-
-## Technology Stack
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+</div> 
 
 ## Open Source Projects
 
