@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am Asma Rahimi, a passionate backend developer specialized in Python, Django, Databases, APIs, and Cloud technologies. I am dedicated to continuous learning and contributing to open-source projects. Fluent in English English, Persian and German, I thrive in collaborative environments and am always seeking new challenges.
+I am Asma Rahimi, a passionate backend developer specialized in Python, Django, Databases, APIs, and Cloud technologies. I am dedicated to continuous learning and contributing to open-source projects. Fluent in English, Persian and German, I thrive in collaborative environments and am always seeking new challenges.
 
 ## Key Points
 
