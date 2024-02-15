@@ -15,7 +15,7 @@ I am Asma Rahimi, a passionate backend developer specialized in Python, Django, 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Rahimi-blue)](https://linkedin.com/in/www.linkedin.com/in/asma-rahimi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Rahimi-blue)](https://www.linkedin.com/in/asma-rahimi)
 
 ## 🛠 Technology Stack
 
